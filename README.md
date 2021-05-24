@@ -1,4 +1,4 @@
-# My name is Kaowpan
+# My name is Khawpan
 
 Address: Yasothon
 Job: student
